@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.2.7
 -- http://www.phpmyadmin.net
--- marcel was here
+--
 -- Host: localhost:3306
 -- Generation Time: Jan 25, 2018 at 06:17 PM
 -- Server version: 5.5.41-log
